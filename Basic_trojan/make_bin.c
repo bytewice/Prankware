@@ -33,11 +33,13 @@ int main() {
     }
     
     // Escreve o array no arquivo
-    fprintf(saida, "unsigned char music_mp3[] = {\n");
+    //fprintf(saida, "unsigned char music_mp3[] = {\n");
+    
+    // Vou querer copiar só os valores do vetor
     for (long i = 0; i < tamanho; i++) {
         fprintf(saida, "0x%02X%s", buffer[i], (i + 1) % 16 == 0 ? ",\n" : ", ");
     }
-    fprintf(saida, "\n};\nunsigned int music_mp3_len = %ld;\n", tamanho);
+    //fprintf(saida, "\n};\nunsigned int music_mp3_len = %ld;\n", tamanho);
     
     fclose(saida);
     free(buffer);
