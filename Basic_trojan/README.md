@@ -41,6 +41,7 @@ that the app will hide itself but it can be found in the task manager, to stop i
 just finish the task there.
 
 To replicate the project it is sufficient to follow the steps in the Basic_trojan/infosec.pdf
+
 ---
 
 ## 🛠️ Applied Knowledge
