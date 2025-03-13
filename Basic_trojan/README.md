@@ -29,8 +29,8 @@ In this basic Trojan project, I intended to create an executable that hides itse
 ### 📌 Features done in the project:
 
 - [OK] Make a file that runs in stealth mode, that is, without alarming the user.
-- [OK] Change the .ico of the file, to make it less noticeable in the task manager.
-- [OK] Find a way to play the music without the user having the .mp3 file.
+- [OK] Change the `.ico` of the file, to make it less noticeable in the task manager.
+- [OK] Find a way to play the music without the user having the `.mp3` file.
 
 ---
 
