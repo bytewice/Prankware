@@ -69,4 +69,4 @@ To replicate the project it is sufficient to follow the steps in the Basic_troja
 
 ## 📌 Final considerations
 
-    This project was developed based on `infosec.pdf`, a chapter from the textbook used in the Information Security course at UFPE.
+This project was developed based on `infosec.pdf`, a chapter from the textbook used in the Information Security course at UFPE.
